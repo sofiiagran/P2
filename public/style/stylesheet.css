@@ -46,7 +46,6 @@ i {
 
 .menubutton i {
     font-size: 80px;
-    color: black;
     line-height: 150px;  /*In order to vertically center icon, use line-height of the .menubutton*/
 }
 
