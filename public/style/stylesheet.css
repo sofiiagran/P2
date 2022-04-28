@@ -25,14 +25,21 @@ i {
     overflow-y: auto;
     overflow-x: auto;
     overflow-wrap: break-word;
-    border-right: 6px solid grey;
+    border-right: 6px solid #474342;
     text-align: center;
 }   
+
+.menubox {
+    width: 100%;
+    height: 100px;
+    background-color: #474342;
+}
 
 .sof {
     display: grid;
     grid-template: repeat(1,minmax(0, 1fr)) / repeat(2, minmax(0, 1fr));
     box-sizing:border-box ;
+    margin-bottom: 50px;
 }
 .menubutton {
     width: 150px;
