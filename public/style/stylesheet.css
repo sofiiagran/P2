@@ -74,15 +74,13 @@ a {
     background-color: green;
     color: white;
 }
-
-i:hover {
-    color: white;
-}
 /*floor*/
 
 .floor {
     width: 67%;
     height: 825px;
+    align-items: center;
+    text-align: center;
 }
 
 .floormenu {
@@ -105,12 +103,3 @@ i:hover {
 .section1 {
     display: flex;
 }
-
-/*Floor*/
-
-.floor {
-    align-items: center;
-    text-align: center;
-
-}
-
