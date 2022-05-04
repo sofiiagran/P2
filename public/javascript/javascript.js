@@ -8,7 +8,6 @@ function hideMenu() {
     document.getElementById("floormenu") 
             .style.display = "none"
 }
-
 function rightCick(e) {
     e.preventDefault(); 
 
